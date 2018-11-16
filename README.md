@@ -28,7 +28,7 @@ Collection of information on current options around UX related asset management 
 | `Reframer` | ☁️ External | ?? | ?? | ?? | ✅ | ?? | ?? | ?? | ?? |
 | `Shipright` | ☁️ External | [Link](https://shipright.co/legal/privacy-policy.pdf) | ?? | — | ✅ | ?? | Planned | Planned | Planned |
 | `SoundingBox` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ✅ | ✅ |
-| `Sticktail` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
+| `Sticktail` | ☁️ External | [Link](https://sticktailapp.com/terms-of-service/) | [Link](https://sticktailapp.com/terms-of-service/) | [Link](https://sticktailapp.com/terms-of-service/) | ✅ | ✅ | ✅ | ✅ | On backlog |
 | `Talebook` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 | `UX360` | ☁️ External | ?? | ?? | ?? | ?? | ?? | ?? | ?? | ?? |
 
